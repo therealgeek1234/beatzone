@@ -1,0 +1,311 @@
+body{
+    background-image: url("background.jpg");
+   background-size: cover;
+  
+}
+.header{
+    color: white;
+    margin-left: 5px;
+    margin-top: 20px;
+    position: absolute;
+}
+.list1{
+    height: 85%;
+    margin-left: 10%;
+    width: 25%;
+    border-radius: 5px;
+    background-color:white;
+    position: absolute;
+    margin-top: 1%;
+    background-image: url("books.jpg");
+   background-size: cover;
+}
+.list2{
+    height: 85%;
+    margin-left: 40%;
+    width: 25%;
+    border-radius: 5px;
+    background-color:white;
+    position: absolute;
+    margin-top: 1%;
+    background-image: url("music.jpg");
+   background-size: cover;
+}
+
+.list3{
+    height: 85%;
+    margin-left: 70%;
+    width: 25%;
+    border-radius: 5px;
+    background-color:white;
+    position: absolute;
+    margin-top: 1%;
+    background-image: url("fifa2.jpg");
+   background-size: cover;
+}
+.list4{
+    height: 85%;
+    margin-left: 10%;
+    width: 25%;
+    border-radius: 5px;
+    background-color:white;
+    position: absolute;
+    margin-top: 45%;
+    background-image: url("svava.jpg");
+   background-size: cover;
+}
+.list5{
+    height: 85%;
+    margin-left: 40%;
+    margin-top: 45%;
+    width: 25%;
+    border-radius: 5px;
+    background-color:white;
+    position: absolute;
+    background-image: url("girls.jpg");
+   background-size: cover;
+}
+.list6{
+    height: 85%;
+    margin-left: 70%;
+    width: 25%;
+    margin-top: 45%;
+    border-radius: 5px;
+    background-color:black;
+    position: absolute;
+}
+.d1{
+    height: 2.5%;
+    margin-top: 10%;
+    width: 100%;
+    background-color: transparent;
+}
+
+.name{
+    background-color: transparent;
+    color: white;
+    font-weight: bolder;
+    margin-left: 2%;
+    position: absolute;
+   
+
+}
+.fi-sr-arrow-alt-circle-up{
+    position: absolute;
+    color: green;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+.list2 .fi-sr-arrow-alt-circle-up{
+    position: absolute;
+    color: green;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.list2 .fi-sr-arrow-alt-circle-down{
+    position: absolute;
+    color: red;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.list3 .fi-sr-arrow-alt-circle-up{
+    position: absolute;
+    color: green;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.list3 .fi-sr-arrow-alt-circle-down{
+    position: absolute;
+    color: red;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+.list3 .fi-sr-arrow-alt-square-right{
+    color: grey;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.fi-sr-arrow-alt-circle-down{
+    position: absolute;
+    color: red;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+.fi-sr-arrow-alt-square-right{
+    position: absolute;
+    color: grey;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+.list2 .fi-sr-arrow-alt-square-right{
+    position: absolute;
+    color: grey;
+    background-color: transparent;
+    margin-left: 80%;
+    margin-top: 6%;
+    font-size: 20px;
+}
+.head{
+    position: absolute;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 20%;
+    margin-top: 10px;
+     text-decoration: underline;
+     color: yellow;
+}
+.panel{
+width: 100%;
+height:70px;
+background-color: transparent;
+margin-top: -1.45%;
+margin-left: -10px;
+}
+.stories{
+    margin-left: 20%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.stories:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+.recents{
+    margin-left: 30%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.recents:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+.time{
+    margin-left: 40%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.time:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+
+.awards{
+    margin-left: 50%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.awards:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+.updates{
+    margin-left: 60%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.updates:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+.contact{
+    margin-left: 70%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.contact:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
+.about{
+    margin-left: 80%;
+    height: 7%;
+    margin-top: 18px;
+    width: 12%;
+    position: absolute;
+    font-weight: bolder;
+    background-color: transparent;
+    color: blue;
+    border: none;
+    text-decoration: underline;
+  font-size: 15px;
+}
+.about:hover{
+    transition: 1s;
+    background-color: blue;
+    color: white;
+}
